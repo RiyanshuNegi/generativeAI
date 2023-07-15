@@ -52,7 +52,7 @@ function ImageGen() {
             
             <div className={ImgGenCss.container}>
                 <div className={ImgGenCss.logo} >
-                    <img className={ImgGenCss.logoImg} src={NeuralSketchLogo} onClick={HomeRedirect} />
+                    <img className={ImgGenCss.logoImg} alt='logo' src={NeuralSketchLogo} onClick={HomeRedirect} />
                 </div>
                 <div className={ImgGenCss.mainContent} >
 
@@ -60,7 +60,7 @@ function ImageGen() {
                         <input type="text" id='reqImg' className={ImgGenCss.input} />
                         <button onClick={handleClick} className={ImgGenCss.btn}>Generate Image</button>
                     </div>
-                    {isGenerating ? (<div className={ImgGenCss.loadCon} > <img src={load} className={ImgGenCss.loader} /> Generating... </div>) : (<img src={imageUrl} className={ImgGenCss.resultImg} /> )}
+                    {isGenerating ? (<div className={ImgGenCss.loadCon} > <img src={load} alt='loader' className={ImgGenCss.loader} /> Generating... </div>) : (<img src={imageUrl} alt='output' className={ImgGenCss.resultImg} /> )}
                     
                 </div>
                 <Header />

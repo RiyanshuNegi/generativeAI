@@ -50,7 +50,7 @@ function Summary(){
            
             <div className={SummaryCss.container}>
                 <div className={SummaryCss.logo} >
-                    <img className={SummaryCss.logoImg} src={SimplifyrLogo} onClick={HomeRedirect} />
+                    <img className={SummaryCss.logoImg} src={SimplifyrLogo} alt='Logo' onClick={HomeRedirect} />
                 </div>
                     <div className={SummaryCss.mainContent } >
 

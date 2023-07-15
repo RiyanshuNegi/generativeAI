@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/generativeAI/static/css/main.afd894c3.css",
+    "main.js": "/generativeAI/static/js/main.2e3f59d1.js",
+    "static/js/787.8d24aaf9.chunk.js": "/generativeAI/static/js/787.8d24aaf9.chunk.js",
+    "static/media/370.gif": "/generativeAI/static/media/370.4ab5514421b7bdaf84d2.gif",
+    "static/media/NeuralSketchLogo.svg": "/generativeAI/static/media/NeuralSketchLogo.b511d5af46825f13f0fea13e97a7d7c9.svg",
+    "static/media/simplifyrLogo.svg": "/generativeAI/static/media/simplifyrLogo.9739aee3bcf109ae4df05febbcc73e59.svg",
+    "index.html": "/generativeAI/index.html",
+    "main.afd894c3.css.map": "/generativeAI/static/css/main.afd894c3.css.map",
+    "main.2e3f59d1.js.map": "/generativeAI/static/js/main.2e3f59d1.js.map",
+    "787.8d24aaf9.chunk.js.map": "/generativeAI/static/js/787.8d24aaf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd894c3.css",
+    "static/js/main.2e3f59d1.js"
+  ]
+}
